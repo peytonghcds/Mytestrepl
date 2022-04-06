@@ -12,6 +12,10 @@ class shirt:
     self.isshortsleeve = isshortsleeve
     self.hascollar = hascollar
 
+def wear(self):
+  print("wearing")
+
+
 
 
 
